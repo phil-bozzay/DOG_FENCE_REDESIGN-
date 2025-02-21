@@ -16,6 +16,7 @@ Electronic circuit design (oscillator, amplifier, fault protection) and custom p
 ## Tasks
 - Generate negative 12 volt supply from positive input that can output |200mA| of current
 - Make center frequency adjustable (pot, variable capacitor)
+- Add neon bulb to protect againts static electricity 
   
 ## Design Decisions
 (https://docs.google.com/drawings/d/1fAMgajhe5bFiq8WKqeaZG5vLBAoIA1WhgEOLgjycgV0/edit?pli=1)
