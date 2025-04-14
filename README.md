@@ -10,6 +10,11 @@ IN PROGRESS/ CLOSE TO FINISH
 ## Project Overview
 Oscillator with center frequency of 10khz, and voltage amplitude from 1v-10v. Must run off of a +12volt supply and with a frequency range from 9.5k to 10.5k. 
 Drive a 100ohm load with lightning protection.
+
+![image](https://github.com/user-attachments/assets/78f3de70-2c91-4bd5-b670-dc04c7be54f6)
+![image](https://github.com/user-attachments/assets/f69602cb-e00f-45a8-84c1-c1df4842b08c)
+![image](https://github.com/user-attachments/assets/48a3f6b6-a533-4a95-b2c0-a9dee6da1c0c)
+
 ## Educational Value Added
 Electronic circuit design (oscillator, amplifier, fault protection) and custom pcb design. 
 
