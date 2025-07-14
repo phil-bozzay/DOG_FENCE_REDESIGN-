@@ -5,7 +5,7 @@ Phillip Bozzay, Electrical Engineering Student (2027) phillipb23@vt.edu
 Tyler Wells 
 
 ## Current Status
-IN PROGRESS/ CLOSE TO FINISH
+FINISHED
 
 ## Project Overview
 Oscillator with center frequency of 10khz, and voltage amplitude from 1v-10v. Must run off of a +12volt supply and with a frequency range from 9.5k to 10.5k. 
