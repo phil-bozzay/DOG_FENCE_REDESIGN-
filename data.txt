@@ -1,0 +1,3 @@
+Foliage loss: -2 
+Radome loss -1
+Water reflection loss: -1
